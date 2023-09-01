@@ -85,7 +85,7 @@ const Components = () => {
                 </Typography>
               </Box>
 
-              <Slider
+              <Slider sx={{color: "#2A8B8B"}}
                 defaultValue={20}
                 value={newValue}
                 aria-label="Default"
